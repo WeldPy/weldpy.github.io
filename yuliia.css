@@ -1,0 +1,7 @@
+h1 {color: rgb(20, 21, 22); text-align: center;}
+h2 {color:rgb(23, 23, 24); text-align: center;}
+body {background-color: seashell}
+p {text-align: center}
+a {text-align: center}
+img  {text-align: center;}
+div.container1 {text-align: center; position: relative; top: 50%;}
